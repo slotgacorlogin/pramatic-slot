@@ -1,0 +1,18 @@
+{
+  "name": "pramatic-slot",
+  "main": "./lib/pramatic-slot",
+  "version": "1.0.0",
+  "description": "Trik Main Hasil Hack Gacor Pramatic Slot No Deposit",
+  "keywords": ["toto slot","slot pg soft","pragmatic play","slot spade gaming","agen slot online","slot online terbaik","pocket gaming soft","slot online terbaik","agen slot online","spade gaming"],
+
+  "activationCommands": {
+    "atom-workspace": "pramatic-slot:toggle"
+  },
+  "repository": "https://github.com/slotgacorlogin/pramatic-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

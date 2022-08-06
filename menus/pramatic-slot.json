@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle pramatic-slot",
+        "command": "pramatic-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pramatic-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pramatic-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
