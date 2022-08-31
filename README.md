@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Download Apk Hasil Hack Gacor Pramatic Slot VIP](https://atom.io/packages/pramatic-slot)
-## :top: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :green_heart: <<< 
-## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/register/) :fire: <<< 
-## :o: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/register/) :heavy_check_mark: <<< 
+## :top: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :green_heart: <<< 
+## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/register/) :fire: <<< 
+## :o: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/register/) :heavy_check_mark: <<< 
 
 ## Informasi Situs /Server Kami : 
 
